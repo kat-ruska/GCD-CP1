@@ -152,7 +152,7 @@ The 'tidy.txt' contains the mean grouped by each activity of each subject/volunt
 The original variables come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. The files "README.txt" and "features_info.txt" of the original data set contain more information about these variables.
 
 #To obtain the 'tidy.txt' from the original data set:
-To obrain the 'tidy.txt' download and unzip the orginal dataset to your working directory. Copy 'run_analysis.R' to your working directory and run the code.
+To obrain the 'tidy.txt' download and unzip the orginal dataset to your working directory. Open and run 'run_analysis.R'.
 
 
 
